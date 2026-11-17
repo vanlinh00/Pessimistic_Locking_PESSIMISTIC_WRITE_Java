@@ -1,0 +1,13 @@
+{
+  "name": "checkup-booking-backend",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "mvn spring-boot:run",
+    "build": "mvn -B package -DskipTests",
+    "start": "java -jar target/checkup-booking-backend-1.0.0.jar",
+    "test": "mvn -B test",
+    "clean": "mvn clean",
+    "lint": "mvn -B test-compile"
+  }
+}

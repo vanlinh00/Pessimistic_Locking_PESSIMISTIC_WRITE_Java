@@ -1,0 +1,6 @@
+{
+  "name": "Checkup Pessimistic Locking Backend",
+  "description": "100% Java Spring Boot backend demonstrating pessimistic locking (SELECT ... FOR UPDATE) to prevent double-booking medical checkup slots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
